@@ -6,7 +6,8 @@ hello-world-nodejs/
 ├── index.js
 ├── package.json
 ├── Dockerfile
-└── terraform/
+└── terraform
+
 Terraform directory structure:
 terraform/
 ├── main.tf
